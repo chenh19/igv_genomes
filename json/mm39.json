@@ -1,0 +1,18 @@
+{
+    "id": "mm39",
+    "name": "Mouse (GRCm39/mm39)",
+    "fastaURL": "https://s3.amazonaws.com/igv.org.genomes/mm39/mm39.fa",
+    "indexURL": "https://s3.amazonaws.com/igv.org.genomes/mm39/mm39.fa.fai",
+    "cytobandURL": "https://hgdownload.soe.ucsc.edu/goldenPath/mm39/database/cytoBandIdeo.txt.gz",
+    "aliasURL": "https://s3.amazonaws.com/igv.org.genomes/mm39/mm39_alias.tab",
+    "tracks": [
+        {
+            "name": "Refseq Genes",
+            "format": "refgene",
+            "url": "https://hgdownload.soe.ucsc.edu/goldenPath/mm39/database/ncbiRefSeq.txt.gz",
+            "indexed": false,
+            "removable": false,
+            "order": 1000000
+        }
+    ]
+}
