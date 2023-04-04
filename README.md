@@ -2,7 +2,7 @@
 *Current version: v1.0.0*
 
 ## Introduction
-- Automatically download Hosted Genomes for IGV.
+- Automatically download [Hosted Genomes for offline use](https://github.com/igvteam/igv/wiki/Downloading-Hosted-Genomes-for-Offline-Use) of [IGV](https://software.broadinstitute.org/software/igv/home).
 
 ## How to setup
 - **Install:** connect to internet and execute the below command in terminal  
