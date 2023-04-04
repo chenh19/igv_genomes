@@ -1,4 +1,4 @@
-# IGV Hosted Genomes Download Tool
+# IGV Genomes Download Tool
 *Current version: v1.0.0*
 
 ## Introduction
