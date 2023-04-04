@@ -7,5 +7,5 @@
 ## How to setup
 - **Install:** connect to internet and execute the below command in terminal  
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/chenh19/igv_genomes/main/igv_genomes.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/chenh19/igv_genomes/main/igv_genomes_download.sh)
 ```
