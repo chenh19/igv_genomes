@@ -1,6 +1,9 @@
 #!/bin/bash
 # This script downloads genome for IGV.
 
+## install wget
+if ! dpkg -l | grep -q "^ii.*wget" ; then sudo apt-get update -qq && sudo apt-get install wget -y && sleep 1 ; fi
+
 ## create folders
 [ ! -d ~/igv/ ] && mkdir ~/igv/
 [ ! -d ~/igv/genomes/ ] && mkdir ~/igv/genomes/
